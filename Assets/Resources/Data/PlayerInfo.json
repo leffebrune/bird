@@ -1,0 +1,51 @@
+{	
+	"Pigeon":{
+		"Prefab":"Player1",
+		"MaxHP":100,
+		"Agility":50,
+		"Upgrades":{
+			"HP":[20, 40, 60, 80, 100],
+			"DUMMY":[1, 2, 3],
+		}
+	},
+	"Owl":{
+		"Prefab":"Player2",
+		"MaxHP":120,
+		"Agility":40,
+		"Upgrades":{
+			"HP":[20, 40, 60, 80, 100],
+		}
+	},
+	"Test1":{
+		"Prefab":"Player1",
+		"MaxHP":120,
+		"Agility":50,
+		"Upgrades":{
+			"HP":[20, 40, 60, 80, 100],
+		}
+	},
+	"Test2":{
+		"Prefab":"Player1",
+		"MaxHP":120,
+		"Agility":50,
+		"Upgrades":{
+			"HP":[20, 40, 60, 80, 100],
+		}
+	},
+	"Test3":{
+		"Prefab":"Player1",
+		"MaxHP":120,
+		"Agility":50,
+		"Upgrades":{
+			"HP":[20, 40, 60, 80, 100],
+		}
+	},
+	"Test4":{
+		"Prefab":"Player1",
+		"MaxHP":120,
+		"Agility":50,
+		"Upgrades":{
+			"HP":[20, 40, 60, 80, 100],
+		}
+	}
+}

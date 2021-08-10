@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 81652f1d8c908764698a02b693b9db0b
+timeCreated: 1476020119
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sudbury Basin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 40229715d78af2c4bae857b8ef682245, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

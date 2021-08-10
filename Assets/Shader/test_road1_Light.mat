@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: test_road1_Light
+  m_Shader: {fileID: 4800000, guid: 090afed2cee313643ad16ecb44ca77b1, type: 3}
+  m_ShaderKeywords: _FOGLIGHT_ON
+  m_LightmapFlags: 0
+  m_CustomRenderQueue: 2150
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ColorRamp
+      second:
+        m_Texture: {fileID: 2800000, guid: 458fef8796c192d4a80355887f3f7f67, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailAlbedoMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailMask
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _DetailNormalMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _EmissionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 7d5a1b5c6dca26544a83e95f645ff654, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MetallicGlossMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _OcclusionMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _ParallaxMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _WindowRamp
+      second:
+        m_Texture: {fileID: 2800000, guid: fffbc2098fc335d488e482bbe4265f95, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _WindowTime
+      second:
+        m_Texture: {fileID: 2800000, guid: 0fd35809fcc16834aaf0714810fffab8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_4791
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_6235
+      second:
+        m_Texture: {fileID: 2800000, guid: 87011933fba1808469d4feca2f7982c9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _node_7893
+      second:
+        m_Texture: {fileID: 2800000, guid: 058f9893e7fd8874b8a396bcca26c58e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _window
+      second:
+        m_Texture: {fileID: 2800000, guid: 1d31b54ddaaa5e34299d4916828198d7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: PixelSnap
+      second: 0
+    - first:
+        name: _Brightness
+      second: 0.3
+    - first:
+        name: _BumpScale
+      second: 1
+    - first:
+        name: _Cutoff
+      second: 0.5
+    - first:
+        name: _DayBrightness
+      second: 0.5
+    - first:
+        name: _DayContrast
+      second: 1
+    - first:
+        name: _DetailNormalMapScale
+      second: 1
+    - first:
+        name: _DstBlend
+      second: 0
+    - first:
+        name: _Fog
+      second: 0
+    - first:
+        name: _FogLight
+      second: 1
+    - first:
+        name: _Glossiness
+      second: 0.5
+    - first:
+        name: _Metallic
+      second: 0
+    - first:
+        name: _Mode
+      second: 0
+    - first:
+        name: _NightBrightness
+      second: 0.6
+    - first:
+        name: _NightContrast
+      second: 0
+    - first:
+        name: _OcclusionStrength
+      second: 1
+    - first:
+        name: _OverlayBlend
+      second: 0
+    - first:
+        name: _Parallax
+      second: 0.02
+    - first:
+        name: _SrcBlend
+      second: 1
+    - first:
+        name: _UVSec
+      second: 0
+    - first:
+        name: _ZWrite
+      second: 1
+    - first:
+        name: _node_1480
+      second: 0
+    - first:
+        name: _node_2751
+      second: 0
+    - first:
+        name: _node_2764
+      second: 0
+    - first:
+        name: _windowsequencer
+      second: 4
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _EmissionColor
+      second: {r: 0, g: 0, b: 0, a: 1}
+    - first:
+        name: _FogColor
+      second: {r: 0.9705882, g: 0.9705882, b: 0.9705882, a: 1}
+    - first:
+        name: _Fogcolor2
+      second: {r: 0.166, g: 0.179, b: 0.203, a: 1}
+    - first:
+        name: _WindowColor
+      second: {r: 0.5114619, g: 0.72269124, b: 0.8088235, a: 1}
+    - first:
+        name: _node_4879
+      second: {r: 0.5, g: 0.5, b: 0.5, a: 1}
