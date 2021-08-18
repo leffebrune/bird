@@ -1,3 +1,4 @@
+# github link : https://github.com/leffebrune/bird
 # 소개
 
 캐주얼 액션(러닝)게임 프로토타입입니다. 
